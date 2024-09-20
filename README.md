@@ -23,3 +23,8 @@ I am currently focusing on artificial intelligence and business analytics, with 
 
 ### TOOLS
 - Languages: Python, SQL, R, C++, JavaScript
+- Packages and Frameworks: Pandas, PyTorch, Scikit-learn, NumPy, PySpark, NTLK
+- Machine Learning: Regression, Deep Learning, Reinforcement Learning, Neural Networks, NLP, SVM, PCA
+- Cloud Technologies: Google Cloud Platform, AWS, Microsoft Azure, Databricks
+- Visualization: Power BI, Tableau, QuickSight
+- Business: Business Analytics, Data Strategy, Project Management, Data Analysis, Microsoft (Excel, Powerpoint)

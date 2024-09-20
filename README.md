@@ -22,4 +22,4 @@ I'm a data scientist currently focusing on expanding my skillset, networking, an
 I am currently focusing on artificial intelligence and business analytics, with a focus on marketing and products analytics. I am passionate about turning data into meaniful business insights!
 
 ### TOOLS
-*Languages: Python, SQL, R, C++, JavaScript
+- Languages: Python, SQL, R, C++, JavaScript
